@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/06/13 00:23:09.812.pas,C:\Projetos\MedievalWar\Unit1.pas=C:\Projetos\MedievalWar\frmdebug.pas</Transaction>
+    <Transaction>2006/06/13 00:23:09.812.dfm,C:\Projetos\MedievalWar\Unit1.dfm=C:\Projetos\MedievalWar\frmdebug.dfm</Transaction>
+    <Transaction>2006/06/19 21:42:55.953.pas,C:\Projetos\MedievalWar\Unit1.pas=C:\Projetos\MedievalWar\constantes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
