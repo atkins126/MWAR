@@ -1,4 +1,4 @@
-# WAR
+# MWAR
 MANUAL DO TECHDEMO "MEDIEVAL WAR" (VERSÃO ALFA)
 
 Grupo 6: Daniel Jorge Achkar e Souza e Marcelo Pereira Rocha
